@@ -1,7 +1,7 @@
 Ticket Purchase
 1.	User-friendly Interface: The ticket purchase interface should be intuitive, easy to navigate, and accessible to users of all abilities.
 2.	Multiple Payment Options: Provide various payment methods such as credit/debit cards, mobile wallets, cash, and contactless payments.
-3.	Ticket Customization: Allow users to select different ticket types (e.g., single journey, daily pass, monthly pass) based on their travel needs.
+3.	Ticket Customization: Allow users to select different ticket types (e.g., Normal Ticket, MRT Pass) based on their travel needs.
 4.	Real-time Fare Calculation: Display the calculated fare based on factors like distance traveled, fare zones, and any applicable discounts or promotions.
 5.	Confirmation and Receipt: Provide users with a confirmation of their ticket purchase along with a digital or printed receipt for their records.
 
